@@ -1,3 +1,4 @@
+-- Query showing Customers (just their full names, customer ID and country) who are not in the US
 SELECT FirstName,
     LastName,
     CustomerId,
